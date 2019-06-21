@@ -1,0 +1,20 @@
+body
+{
+	background-color:skyblue;
+}
+div
+{
+  margin-left:30em;
+	margin-right:30em;
+}
+
+#first
+{
+	 margin-bottom:10px;
+  border: 1px solid #4CAF50;
+}
+#second
+{
+	 margin-top:10px;
+  border: 1px solid #4CAF50;
+}
